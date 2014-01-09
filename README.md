@@ -10,5 +10,5 @@ on the server and per page on the client.
 
 ## Usage
 
-Simply require `yahoo.addons.globals` to make the `ac.globals` add-on available
+Simply require `mojito-globals-addon` to make the `ac.globals` add-on available
 in your controller...

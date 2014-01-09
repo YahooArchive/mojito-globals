@@ -1,6 +1,6 @@
 /*globals YUI, YUITest*/
 
-YUI.add('yahoo.addons.globals-tests', function (Y, NAME) {
+YUI.add('mojito-globals-addon-tests', function (Y, NAME) {
     'use strict';
 
     var A = YUITest.Assert,
@@ -94,5 +94,5 @@ YUI.add('yahoo.addons.globals-tests', function (Y, NAME) {
     YUITest.TestRunner.add(suite);
 
 }, '1.0.0', {
-    requires: ['yahoo.addons.globals']
+    requires: ['mojito-globals-addon']
 });

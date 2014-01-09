@@ -57,7 +57,7 @@
 
         // Act like an addon if YUI is present
 
-        YUI.add('yahoo.addons.globals', function (Y, NAME) {
+        YUI.add('mojito-globals-addon', function (Y, NAME) {
 
             function Addon(command, adapter, ac) {
                 // Y.Global.yahoo should only be defined on the client
