@@ -1,6 +1,6 @@
 {
     "name": "mojito-globals",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Facilitates read/write access to variables that are global to the request",
     "author": "Julien Lecomte <jlecomte@yahoo-inc.com>",
     "engines": {
